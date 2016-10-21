@@ -1,6 +1,6 @@
 # Site settings
 title: "Don Lockhart"
-description: "Don Lockhart is a software developer and engineer in Richmond, VA"
+description: "Don Lockhart is a software architect and engineer in Richmond, VA"
 google_analytics: "UA-33400102-1"
 
 # Build settings
@@ -12,7 +12,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Don Lockhart"
-resume_title:                   "Software Engineer"
+resume_title:                   "Software Architect / Engineer"
 resume_contact_email:
   "don@donlockhart.com"
 
